@@ -192,8 +192,8 @@ li.formação-itens p.quando{
     color: var(--text);
 }
 
-section#hibiladades {
-    background: var(--primary);
+section#habilidades {
+    background: #4387D8;
 }
 
 section#habilidades div#conteudo-habilidades {
